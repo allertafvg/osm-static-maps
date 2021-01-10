@@ -1,0 +1,6 @@
+{
+  "name": "OSM Static Maps",
+  "description": "OSM Static Maps",
+  "repository": "https://github.com/jperelli/osm-static-maps/",
+  "keywords": ["osm", "map", "static"]
+}
