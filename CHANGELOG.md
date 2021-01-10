@@ -1,3 +1,27 @@
+# 3.10.3
+
+Support AWS functions hotfix
+
+ - Move dependencies right.
+
+# 3.10.2
+
+Support AWS functions
+
+ - Move dependencies to dev to conform the 50Mib limit
+
+# 3.10.1
+
+Hotfix
+
+ - Fix broken local puppeteer
+
+# 3.10.0
+
+Add support to vercel api functions
+
+ - Use chrome-aws-lambda as alternative to base puppeteer
+
 # 3.9.1
 
 Maintenance
